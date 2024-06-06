@@ -1,0 +1,34 @@
+node_modules
+*.log
+.nuxt
+nuxt.d.ts
+dist
+.output
+.env
+.DS_STORE
+.history
+.cache
+.data
+
+# Local Netlify folder
+.netlify
+.vercel
+
+# Local editor
+*.code-workspace
+
+# Pinegrow
+_pgbackup
+_pginfo
+
+## optional
+pinegrow.json
+
+## optional
+## Uncomment the below as per your needs
+## add any d.ts files that are auto-generated, for eg,
+auto-imports.d.ts
+components.d.ts
+composables.d.ts
+## rollup visualizer
+stats.html
