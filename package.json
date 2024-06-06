@@ -45,7 +45,7 @@
     "@iconify/json": "^2.2.130",
     "@nuxt/devtools": "^1.0.0",
     "@nuxt/eslint-config": "^0.2.0",
-    "@pinegrow/nuxt-module": "^3.0.55",
+    "@pinegrow/nuxt-module": "^3.0.56",
     "@pinegrow/nuxtui-plugin": "^3.0.35",
     "@pinegrow/tailwindcss-plugin": "^3.0.20",
     "eslint": "^8.51.0",
