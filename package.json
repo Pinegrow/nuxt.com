@@ -45,9 +45,9 @@
     "@iconify/json": "^2.2.130",
     "@nuxt/devtools": "^1.0.0",
     "@nuxt/eslint-config": "^0.2.0",
-    "@pinegrow/nuxt-module": "^3.0.56",
+    "@pinegrow/nuxt-module": "^3.0.60",
     "@pinegrow/nuxtui-plugin": "^3.0.35",
-    "@pinegrow/tailwindcss-plugin": "^3.0.20",
+    "@pinegrow/tailwindcss-plugin": "^3.0.23",
     "eslint": "^8.51.0",
     "typescript": "^5.2.2",
     "vue-tsc": "^1.8.19"
