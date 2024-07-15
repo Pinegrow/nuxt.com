@@ -47,7 +47,7 @@
     "@nuxt/eslint-config": "^0.2.0",
     "@pinegrow/nuxt-module": "^3.0.60",
     "@pinegrow/nuxtui-plugin": "^3.0.35",
-    "@pinegrow/tailwindcss-plugin": "^3.0.23",
+    "@pinegrow/tailwindcss-plugin": "^3.0.29",
     "eslint": "^8.51.0",
     "typescript": "^5.2.2",
     "vue-tsc": "^1.8.19"

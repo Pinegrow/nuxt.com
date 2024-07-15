@@ -101,8 +101,8 @@ devDependencies:
     specifier: ^3.0.35
     version: 3.0.35(@nuxt/ui@2.9.0)
   '@pinegrow/tailwindcss-plugin':
-    specifier: ^3.0.23
-    version: 3.0.23(tailwindcss@3.3.3)
+    specifier: ^3.0.29
+    version: 3.0.29(tailwindcss@3.3.3)
   eslint:
     specifier: ^8.51.0
     version: 8.51.0
@@ -2241,8 +2241,8 @@ packages:
       '@nuxt/ui': 2.9.0(vue@3.3.4)(webpack@5.89.0)
     dev: true
 
-  /@pinegrow/tailwindcss-plugin@3.0.23(tailwindcss@3.3.3):
-    resolution: {integrity: sha512-ymAM3FoK34KSWK0k87acI4bffZTYWpFtsHPc7zuJ3R01RqzoCZTfWiTRHicRGx7/bWCA61TPO0MoA0N3cSxlSg==}
+  /@pinegrow/tailwindcss-plugin@3.0.29(tailwindcss@3.3.3):
+    resolution: {integrity: sha512-wvtMkaoDQcYv+PhbRBVJZFKt5ZV3lSUiGJoH+ORu6q//WuR0VNjOJk9pdauv/0Wru4MvLHZSIett60Px05Rbhw==}
     hasBin: true
     peerDependencies:
       tailwindcss: '>=3'
