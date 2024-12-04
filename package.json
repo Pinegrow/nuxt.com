@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "nuxi dev",
     "now": "npm run build && npm run preview",
-    "lighthouse:dev": "npx unlighthouse --no-cache --site http://localhost:3000",
     "lighthouse": "npx unlighthouse --no-cache --site https://nuxt.com",
     "build": "nuxi build",
     "generate": "nuxi generate",
@@ -45,9 +44,9 @@
     "@iconify/json": "^2.2.130",
     "@nuxt/devtools": "^1.0.0",
     "@nuxt/eslint-config": "^0.2.0",
-    "@pinegrow/nuxt-module": "^3.0.60",
-    "@pinegrow/nuxtui-plugin": "^3.0.35",
-    "@pinegrow/tailwindcss-plugin": "^3.0.29",
+    "@pinegrow/nuxt-module": "^3.0.65",
+    "@pinegrow/nuxtui-plugin": "^3.0.38",
+    "@pinegrow/tailwindcss-plugin": "^3.0.33",
     "eslint": "^8.51.0",
     "typescript": "^5.2.2",
     "vue-tsc": "^1.8.19"
